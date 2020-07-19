@@ -3,7 +3,7 @@
 import telebot, random
 import requests
 
-TOKEN = '993607592:AAGW2h2-sNO2akQ_R4OAZ_eJHehobf06Gzs' # TOKEN DEL BOT
+TOKEN = 'InsertarToken' # TOKEN DEL BOT
 tb = telebot.TeleBot(TOKEN)
 
 # CONSTANTS
